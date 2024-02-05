@@ -1,7 +1,7 @@
 import React from "react";
 
 const updateTwo = () => {
-  return <div>updateTwo</div>;
+  return <div>I am update two</div>;
 };
 
 export default updateTwo;
